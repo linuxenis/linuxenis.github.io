@@ -6,8 +6,19 @@
     <description>Recent content on Hugo svetainė</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:33:49 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:11:46 +0300</lastBuildDate>
     <atom:link href="https://linuxenis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras</title>
+      <link>https://linuxenis.github.io/posts/antras/</link>
+      <pubDate>Fri, 09 Oct 2026 18:11:46 +0300</pubDate>
+      <guid>https://linuxenis.github.io/posts/antras/</guid>
+      <description>&lt;p&gt;Tai mano antras postas.&lt;/p&gt;
+&lt;img src=&#34;https://linuxenis.github.io/kates.jpg&#34; alt=&#34;Kates&#34; width=&#34;400&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl status nginx
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pirmas puslapis</title>
       <link>https://linuxenis.github.io/posts/pirmas/</link>
