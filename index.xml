@@ -6,8 +6,15 @@
     <description>Recent content on Hugo svetainė</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:11:46 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:12:22 +0300</lastBuildDate>
     <atom:link href="https://linuxenis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://linuxenis.github.io/about/</link>
+      <pubDate>Sat, 10 Oct 2026 00:12:22 +0300</pubDate>
+      <guid>https://linuxenis.github.io/about/</guid>
+      <description>&lt;p&gt;Aš esu PRIfs-23 grupės studentas Linas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Antras</title>
       <link>https://linuxenis.github.io/posts/antras/</link>
